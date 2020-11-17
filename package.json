@@ -1,0 +1,27 @@
+{
+  "name": "nextjs-mui",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "bootstrap": "^4.5.3",
+    "clsx": "^1.1.1",
+    "next": "10.0.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.0",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "^16.8.0",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0"
+  },
+  "devDependencies": {
+    "@iconify-icons/simple-icons": "^1.0.10",
+    "@iconify/react": "^1.1.3"
+  }
+}
